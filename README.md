@@ -1,4 +1,4 @@
-## Olá eu sou o Isaque Silva !
+## Oi, eu sou Isaque !
 
 - 💻 Estudante de Desenvolvimento de Sistemas
 - 🤓 Estudante de JavaScript/CSS
