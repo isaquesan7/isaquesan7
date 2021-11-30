@@ -7,16 +7,13 @@
   <a href="https://github.com/isaquesan7">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaquesan7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesan7&layout=compact&langs_count=7&theme=dark"/>
-  </a>
 </div>
 
 <div style="display: inline_block"><br>
-  <a href = "#">
   <img align="center" alt="Isaq-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Isaq-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Isaq-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="But-coffe" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/SRr4hnysDxRQxhwfC9/giphy.gif">
-  </a>
 </div>
 
 ##
