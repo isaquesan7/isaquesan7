@@ -13,6 +13,7 @@
   <img align="center" alt="Isaq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isaq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="But-coffe" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/SRr4hnysDxRQxhwfC9/giphy.gif">
 </div>
 
 ##
