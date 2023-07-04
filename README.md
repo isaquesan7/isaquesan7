@@ -1,6 +1,6 @@
 ## Oi, eu sou Isaque ! <a href="https://github.com/isaquesan7"><img align="center" alt="patamon-gif" width="70" height="70" src="https://pa1.narvii.com/6477/bb35fba5686ebed324bcf5399181bf4b192b9811_hq.gif"></a>
 
-- 💻 Estudante de Desenvolvimento de Sistemas
+- 💻 Web Developer
 
 <div align="center">
   <a href="https://github.com/isaquesan7">
